@@ -1,7 +1,7 @@
-# title
+# super awesome title
 
   ## Description
- #### des
+ #### best description ever
   
   ## Table of Contents
   * [ Installation](#Installation)
@@ -12,21 +12,21 @@
   * [ Questions](##Questions)
 
   ## Installation
-  #### instr
+  #### don't forget that git ignore
 
   ## Usage
-  #### use
+  #### use at your leisure
 
   ## License
   #### MIT- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Contributors
-  #### cont
+  #### Michael does awesome
 
   ## Testing
-  #### test
+  #### test with your own readme
 
   ## Questions
-  #### gig
-  #### email
+  #### mescamilla1114
+  #### email@email.com
   
